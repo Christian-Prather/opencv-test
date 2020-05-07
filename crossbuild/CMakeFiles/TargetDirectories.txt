@@ -1,0 +1,7 @@
+/home/christian/Desktop/OpenCV_Tests/crossbuild/CMakeFiles/install/strip.dir
+/home/christian/Desktop/OpenCV_Tests/crossbuild/CMakeFiles/install/local.dir
+/home/christian/Desktop/OpenCV_Tests/crossbuild/CMakeFiles/edit_cache.dir
+/home/christian/Desktop/OpenCV_Tests/crossbuild/CMakeFiles/umat-tests.dir
+/home/christian/Desktop/OpenCV_Tests/crossbuild/CMakeFiles/rebuild_cache.dir
+/home/christian/Desktop/OpenCV_Tests/crossbuild/CMakeFiles/install.dir
+/home/christian/Desktop/OpenCV_Tests/crossbuild/CMakeFiles/list_install_components.dir
